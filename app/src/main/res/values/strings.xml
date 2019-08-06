@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="save">save</string>
+    <string name="signout">signout</string>
+    <!--<string name="default_web_client_id" translatable="false">8027442999-g8klclsgcqo4283sltseimj4i972b3nq.apps.googleusercontent.com</string>-->
+</resources>
